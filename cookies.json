@@ -1,0 +1,70 @@
+#https://toml-to-json.matiaskorhonen.fi/
+#json转toml格式
+
+[
+    {
+        "domain": ".huggingface.co",
+        "expirationDate": 1721970433,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "__stripe_mid",
+        "path": "/",
+        "sameSite": "strict",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "ae5e6c9f-7573-4c22-bdd2-eb7af49e5d329957b8"
+    },
+    {
+        "domain": ".huggingface.co",
+        "expirationDate": 1724994430.46682,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_ga",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "GA1.1.368808934.1690039845"
+    },
+    {
+        "domain": ".huggingface.co",
+        "expirationDate": 1721576854.320218,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "token",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "YCZgqvydGDZJZrgDcZXasOYFftdcPgiLrPdoySQBZkuQxvrsDqZjEUUhSQnmcjpYmoEAtMmoIBTazUKFhIdDrnqLOToCWxSGuddqAQTJKDsUuLmqEBMYJbEUzBEkrOWQ"
+    },
+    {
+        "domain": ".huggingface.co",
+        "expirationDate": 1724994430.466176,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_ga_8Q63TH4CSL",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "GS1.1.1690433777.6.1.1690434430.0.0.0"
+    },
+    {
+        "domain": "huggingface.co",
+        "expirationDate": 1723018595.541914,
+        "hostOnly": true,
+        "httpOnly": true,
+        "name": "hf-chat",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "1c33ee3f-9a4e-4b23-af73-723e7ce565d2"
+    }
+]
